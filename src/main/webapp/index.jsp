@@ -1,4 +1,1 @@
-
-<%
-   response.sendRedirect("spring/hello");
-%>
+<!1491228652512>
